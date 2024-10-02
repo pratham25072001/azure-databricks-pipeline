@@ -28,6 +28,7 @@ This project demonstrates a complete data engineering pipeline from an on-premis
    - Power BI connects to Azure Synapse Analytics to create dashboards, offering real-time insights and analytics for stakeholders.
 
 ## Architecture Diagram
+![Screenshot 2024-10-02 185527](https://github.com/user-attachments/assets/ca5475a5-5566-4693-88a1-14be3f3adc35)
 
 
 ## Technologies Used
